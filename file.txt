@@ -1,5 +1,32 @@
 This is line one
 This is line 2
 Line 3
-More lines
-sldkfjlskdjf
+AA- Line 4
+AA- Line 5
+
+
+
+
+
+
+
+
+master
+o
+|
+o
+|
+o    o----o
+|    |    |
+|    k    a1
+|    |    |
+|    k    a2
+|<--------|
+a1   
+|    
+a2---a2  <- HEAD
+     |
+     k
+     |
+     k
+
