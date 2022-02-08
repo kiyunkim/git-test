@@ -1,6 +1,7 @@
 This is line one
 This is line 2
 Line 3
+<<<<<<< HEAD
 AA- Line 4
 AA- Line 5
 
@@ -30,3 +31,11 @@ a2---a2  <- HEAD
      |
      k
 
+=======
+More lines
+sldkfjlskdjf
+
+
+o---o
+|
+>>>>>>> bcc0d97 (Drawing)
